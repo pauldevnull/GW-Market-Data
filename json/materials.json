@@ -1,0 +1,266 @@
+{
+	"1": {
+		"blood": {
+			"id": "24290",
+			"name": "Vial of Weak Blood",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"bone": {
+			"id": "24342",
+			"name": "Bone Chip",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"claw": {
+			"id": "24346",
+			"name": "Tiny Claw",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"fang": {
+			"id": "24352",
+			"name": "Tiny Fang",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"totem": {
+			"id": "24296",
+			"name": "Tiny Totem",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"venom": {
+			"id": "24278",
+			"name": "Tiny Venom Sac",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"dust": {
+			"id": "24272",
+			"name": "Pile of Glittering Dust",
+			"buy_price": 0,
+			"sell_price": 0
+		}
+	},
+	"2": {
+		"blood": {
+			"id": "24291",
+			"name": "Vial of Thin Blood",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"bone": {
+			"id": "24343",
+			"name": "Bone Shard",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"claw": {
+			"id": "24347",
+			"name": "Small Claw",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"fang": {
+			"id": "24353",
+			"name": "Small Fang",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"totem": {
+			"id": "24297",
+			"name": "Small Totem",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"venom": {
+			"id": "24279",
+			"name": "Small Venom Sac",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"dust": {
+			"id": "24273",
+			"name": "Pile of Shimmering Dust",
+			"buy_price": 0,
+			"sell_price": 0
+		}
+	},
+	"3": {
+		"blood": {
+			"id": "24292",
+			"name": "Vial of Blood",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"bone": {
+			"id": "24344",
+			"name": "Bone",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"claw": {
+			"id": "24348",
+			"name": "Claw",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"fang": {
+			"id": "24354",
+			"name": "Fang",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"totem": {
+			"id": "24298",
+			"name": "Totem",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"venom": {
+			"id": "24280",
+			"name": "Venom Sac",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"dust": {
+			"id": "24274",
+			"name": "Pile of Radiant Dust",
+			"buy_price": 0,
+			"sell_price": 0
+		}
+	},
+	"4": {
+		"blood": {
+			"id": "24293",
+			"name": "Vial of Thick Blood",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"bone": {
+			"id": "24345",
+			"name": "Heavy Bone",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"claw": {
+			"id": "24349",
+			"name": "Sharp Claw",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"fang": {
+			"id": "24355",
+			"name": "Sharp Fang",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"totem": {
+			"id": "24363",
+			"name": "Engraved Totem",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"venom": {
+			"id": "24281",
+			"name": "Full Venom Sac",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"dust": {
+			"id": "24275",
+			"name": "Pile of Luminous Dust",
+			"buy_price": 0,
+			"sell_price": 0
+		}
+	},
+	"5": {
+		"blood": {
+			"id": "24294",
+			"name": "Vial of Potent Blood",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"bone": {
+			"id": "24341",
+			"name": "Large Bone",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"claw": {
+			"id": "24350",
+			"name": "Large Claw",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"fang": {
+			"id": "24356",
+			"name": "Large Fang",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"totem": {
+			"id": "24299",
+			"name": "Intricate Totem",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"venom": {
+			"id": "24282",
+			"name": "Potent Venom Sac",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"dust": {
+			"id": "24276",
+			"name": "Pile of Incandescent Dust",
+			"buy_price": 0,
+			"sell_price": 0
+		}
+	},
+	"6": {
+		"blood": {
+			"id": "24295",
+			"name": "Vial of Powerful Blood",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"bone": {
+			"id": "24358",
+			"name": "Ancient Bone",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"claw": {
+			"id": "24351",
+			"name": "Vicious Claw",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"fang": {
+			"id": "24357",
+			"name": "Vicious Fang",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"totem": {
+			"id": "24300",
+			"name": "Elaborate Totem",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"venom": {
+			"id": "24283",
+			"name": "Powerful Venom Sac",
+			"buy_price": 0,
+			"sell_price": 0
+		},
+		"dust": {
+			"id": "24277",
+			"name": "Pile of Crystalline Dust",
+			"buy_price": 0,
+			"sell_price": 0
+		}
+	}
+}
