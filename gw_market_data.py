@@ -3,8 +3,6 @@
 import json
 import requests
 
-PRICE_URL = 'https://api.guildwars2.com/v2/commerce/prices?ids='
-
 def collect_material_prices(materials):
     """Collects current crafting material prices"""
     material_ids = []
@@ -48,6 +46,7 @@ def evaluate_material_profits(materials):
                 print '\tsell x7 ' + next_tier[name]['name'] + \
                     ' @ ' + str(next_tier_sell_price)
 
+PRICE_URL = 'https://api.guildwars2.com/v2/commerce/prices?ids='
 MATERIALS_RAW = open('json/materials.json').read()
 MATERIALS = json.loads(MATERIALS_RAW)
 collect_material_prices(MATERIALS)
