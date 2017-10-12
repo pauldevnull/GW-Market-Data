@@ -2,7 +2,6 @@ import requests
 import json
 
 price_url = 'https://api.guildwars2.com/v2/commerce/prices?ids='
-recipe_url = 'https://api.guildwars2.com/v2/recipes/7319'
 
 def collect_material_prices(materials):
 	material_ids = []
@@ -42,4 +41,3 @@ materials_raw = open('json/materials.json').read()
 materials = json.loads(materials_raw)
 collect_material_prices(materials)
 evaluate_profits(materials)
-
