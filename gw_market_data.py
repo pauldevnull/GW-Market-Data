@@ -22,10 +22,10 @@ def collect_material_prices(materials):
 
 def evaluate_material_profits(materials):
     """Evaluates and outputs projected profits for crafting materials"""
-    for i in range(0, 5):
-        current_tier = materials[str(i+1)]
-        next_tier = materials[str(i+2)]
-        print 'Tier ' + str(i+1) + ' -> Tier ' + str(i+2)
+    for i in range(1, 6):
+        current_tier = materials[str(i)]
+        next_tier = materials[str(i+1)]
+        print 'Tier ' + str(i) + ' -> Tier ' + str(i+1)
         for name in materials['1'].keys():
             current_tier_buy_price = current_tier[name]['buy_price']
             next_tier_buy_price = next_tier[name]['buy_price']
