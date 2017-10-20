@@ -29,10 +29,10 @@ def evaluate_material_profits(materials):
             next_tier_buy_price = next_tier[name]['buy_price']
             next_tier_sell_price = next_tier[name]['sell_price']
             dust_expense = int(next_tier['dust']['buy_price']) * 5
-            current_tier_expense = int(current_tier_buy_price) * 50
-            next_tier_expense = int(next_tier_buy_price)
+            current_tier_expense = int(current_tier_buy_price + 1) * 50
+            next_tier_expense = int(next_tier_buy_price + 1)
             upgrade_cost = dust_expense + current_tier_expense + next_tier_expense
-            upgrade_earnings = int(next_tier_sell_price) * 7
+            upgrade_earnings = int(next_tier_sell_price - 1) * 7
             profit = upgrade_earnings - upgrade_cost
             if profit > 0:
                 print '  ' + name
