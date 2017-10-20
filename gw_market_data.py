@@ -46,7 +46,7 @@ def evaluate_material_profits(materials):
                 print '\tsell x7 ' + next_tier[name]['name'] + \
                     ' @ ' + str(next_tier_sell_price)
 
-EXPECTED_MATERIAL_COUNT = 7
+EXPECTED_MATERIAL_COUNT = 6
 PRICE_URL = 'https://api.guildwars2.com/v2/commerce/prices?ids='
 MATERIALS_RAW = open('json/materials.json').read()
 MATERIALS = json.loads(MATERIALS_RAW)
