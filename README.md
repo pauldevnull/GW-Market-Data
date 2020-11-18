@@ -7,6 +7,7 @@ This project also serves as an example for how a basic python project should be 
 ### Getting Setup
 * From terminal, navigate to the folder on your machine (cd ...) where you would like for this project to live.
 * Next, clone this project to your machine using "git clone https://github.com/pauldevnull/GWMarketData.git"
+* Navigate to the cloned project ("cd GW-Market-Data")
 * Finally, install dependencies for this project by running "pip3 install -r requirements.txt"
 * Run the project with "python gw_market_data.py"
 
