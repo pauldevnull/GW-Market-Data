@@ -14,7 +14,7 @@ This project also serves as an example for how a basic python project should be 
 ### Stuff To Note
 * The "requirements.txt" file can be used to store all dependencies and their versions for the project for easy installation. This allows anyone (including yourself) to easily clone the project and get it up and running without having to figure out each of the dependencies.
 * This project uses examples of classses (MaterialEvaluator and MaterialCollector). It isn't exactly necessary here, but serves as a good example of how to do this. A class is a noun (i.e. a "thing") and can have one or more instances created. It also helps to organize code.
-* The "__init__.py" file is needed inside folders to allow importing of classes within the project. This file can usually just be empty but is needed to tell python that the directory should be treated as a package.
+* The "_init_.py" file is needed inside folders to allow importing of classes within the project. This file can usually just be empty but is needed to tell python that the directory should be treated as a package.
 * The entry point of the project is a file with the same name as the project, except all lowercase ("gw_market_data.py"). This file contains a main() method which is called at the end of the file.
 * The main() method serves as the entry point to the code and contains only high-level logic that should describe the general flow of the script
 
